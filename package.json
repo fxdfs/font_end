@@ -1,0 +1,18 @@
+{
+  "name": "font_end_project",
+  "version": "1.0.0",
+  "description": "前端知识详解",
+  "main": "index.js",
+  "author": "runqi.guo",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.18",
+    "@vuepress/theme-default": "^2.0.0-rc.61",
+    "sass-embedded": "^1.82.0",
+    "vuepress": "^2.0.0-rc.18"
+  }
+}
