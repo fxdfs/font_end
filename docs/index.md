@@ -1,9 +1,9 @@
 ---
 home: true
-heroText: 前端知识详解
-tagline: 力求打造一份最详尽的前端学习资料
+heroText:   编程知识详解
+tagline: 力求打造一份最详尽的全栈学习资料
 features:
-- title: 基础知识
+- title: 技术笔记
   details: 前端基础知识：html、css、js。
 ---
 
